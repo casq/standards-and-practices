@@ -59,6 +59,7 @@ Format:
 | Andrew Plassard | [aplassard](https://github.com/aplassard) ||
 | Andrew Salem | [gnomemage7](https://github.com/gnomemage7)||
 | Andrew Suppa | [antaios256](https://github.com/antaios256) ||
+| Andy Davies | [casq](https://github.com/casq) ||
 | Andy Huynh | [andystructible](https://github.com/andystructible) | I'm interning at a RoRs shop in Southern California. I'm excited to contribute to the open source community! |
 | Angela Sheu | [angelasheu](https://github.com/angelasheu) ||
 | Anna Mach | [amach](https://github.com/amach) ||
